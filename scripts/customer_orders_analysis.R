@@ -1,7 +1,7 @@
 # AI Assistance Declaration: I used ChatGPT (OpenAI, accessed November 13,
 # 2026) for documentation structure, wording refinement, and validation
 # guidance. Prompts are recorded in AI_Prompts_Appendix.md. I reviewed the
-# script logic, checked all file references, and will execute the final
+# script logic, checked all file references, and executed the final
 # calculations directly in R. I am responsible for the accuracy and
 # originality of this work.
 
